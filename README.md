@@ -1,0 +1,2 @@
+# Amazon-Review-Rating-Prediction
+A large part of its activity is the analysis of customer reviews on eCommerce platforms, specifically for consumer electronics.build a machine learning model that predicts review ratings based on review contents and metadata. You have identified a dataset of 100,000 Amazon product reviews that can be used for model training. You would then need to deploy your model to an endpoint.
