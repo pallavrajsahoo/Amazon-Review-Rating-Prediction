@@ -18,11 +18,10 @@ The project will cover the standard Machine Learning Pipeline of:
 
 This Machine Learning end-to-end project consists of the following tasks:
 
-    1. Perform text data processing on review tests
-    2. Perform Exploratory Data Analysis on data to handle missing, imbalanced data and outliers
-    3. Construct numerical features for prediction by implementing frequency-based features like TF and TF-IDF
-    4. Implement various Machine Learning algorithms like Logistic regression, SVM, Random Forest. 
-    5. Deploy the trained model to a public API endpoint.
+    1. Performed Text data processing and EDA on review texts to remove noise and handle imbalanced data and outliers
+    2. Constructed numerical features for prediction by implementing frequency-based features like TF and TF-IDF
+    3. Implemented, trained and evaluated various Machine Learning algorithms like Logistic regression, SVM and Random Forest. 
+    4. Achieved accuracy of ~82% and deployed the trained model to a public API endpoint on Azure ML Studio
 
 General Details The following table contains general information about this project module:
 
